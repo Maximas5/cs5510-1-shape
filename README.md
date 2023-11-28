@@ -4,5 +4,6 @@ This project uses cv2 in the shapedetector.py file to process and detect simple 
 ## Usage Instructions
 1. Navigate to folder containing the driver code, *detect_shapes.py*
 2. Place any images you want to process in the same folder.
-3. Run the following command, replacing <image> with the name of the image you want to process:
+3. Run the following command, replacing \<image\> with the name of the image you want to process: 
+
     `python3 detect_shapes.py --image <image>`
